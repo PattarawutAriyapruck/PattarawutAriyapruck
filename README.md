@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Mathematics Student - Mahidol University
 ----------------------------------------
 
-I am passionate about Deep Learning and AI, focusing on training models to solve real-world problems. With hands-on experience using TensorFlow and Keras, I specialize in computer vision tasks like image classification. I would like to learn more about Deep Learning and AI.
+I am passionate about Machine Learning & Deep Learning and AI, focusing on training models to solve real-world problems. With hands-on experience using TensorFlow and Keras, I specialize in computer vision tasks like image classification. I would like to learn more about Machine Learning & Deep Learning and AI.
 
 * 🌍  I'm based in Bangkok, Thailand
 
