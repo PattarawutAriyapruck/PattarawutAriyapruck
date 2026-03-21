@@ -2,7 +2,7 @@
 
 # Hi there, I'm Pattarawut Ariyapruck 👋
 
-### 📊 Data Scientist | 🤖 ML & AI Enthusiast | 🧠 Deep Learning Explorer
+### 📊 Data Scientist
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Data+Scientist+based+in+Bangkok+%F0%9F%87%B9%F0%9F%87%AD;Machine+Learning+%26+Deep+Learning;AI-driven+Solutions+Builder;Always+learning%2C+always+growing+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -42,9 +42,16 @@ I'm a **Data Scientist** based in **Bangkok, Thailand 🇹🇭**, passionate abo
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
+### AI Models & LLMs
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+
 ### Databases & Backend
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### Dev Tools
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
