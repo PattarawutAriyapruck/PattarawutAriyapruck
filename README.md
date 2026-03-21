@@ -46,35 +46,3 @@ I'm a **Data Scientist** based in **Bangkok, Thailand 🇹🇭**, passionate abo
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Pattarawut's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PattarawutAriyapruck&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PattarawutAriyapruck&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=PattarawutAriyapruck&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🎯 Focus Areas
-
-```python
-data_scientist = {
-    "name"       : "Pattarawut Ariyapruck",
-    "location"   : "Bangkok, Thailand 🇹🇭",
-    "focus"      : ["Data Science", "Machine Learning", "Deep Learning", "AI"],
-    "languages"  : ["Python", "R", "SQL", "JavaScript"],
-    "frameworks" : ["TensorFlow", "Keras", "scikit-learn", "Flask"],
-    "interests"  : ["Image Classification", "NLP", "Data Visualization", "MLOps"],
-    "goal"       : "Building AI solutions that make a real-world impact 🚀"
-}
-```
-
----
