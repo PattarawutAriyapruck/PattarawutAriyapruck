@@ -12,14 +12,18 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Data Scientist** based in **Bangkok, Thailand 🇹🇭**, passionate about turning raw data into actionable insights and intelligent systems. My work spans the full data science pipeline — from exploratory analysis and feature engineering to deploying production-ready ML models.
+I'm a **Data Scientist** based in **Bangkok, Thailand 🇹🇭**, passionate about turning raw data into actionable insights and intelligent systems. My work spans the full data science pipeline — from exploratory analysis and feature engineering to deploying production-ready ML models and AI-powered applications.
 
 - 🔭 I specialize in **Machine Learning**, **Deep Learning**, and **AI-driven solutions**
 - 🖼️ Hands-on experience with **image classification** and computer vision tasks
 - 📈 Proficient in **data analysis**, statistical modeling, and **model training**
+- 🔌 Building and consuming **REST APIs** to power data pipelines and AI services (FastAPI, Flask)
+- ☁️ Deploying solutions on **Cloud Platforms** — Google Cloud (Cloud Run, Vision API, Gemini API), and other managed services
+- 🤖 Working with **Large Language Models (LLMs)** — prompt engineering, API integration, and building LLM-powered applications
+- 🌐 Creating **web applications** that bring data science and AI to life through interactive frontends and backend APIs
 - 💡 Always exploring new techniques in the ML/AI space
-- 🌱 Currently deepening my knowledge in **advanced Deep Learning architectures**
-- 🤝 Open to collaborations on data science and AI projects
+- 🌱 Currently deepening my knowledge in **MLOps**, **LLM fine-tuning**, and **agentic AI systems**
+- 🤝 Open to collaborations on data science, AI, and full-stack AI application projects
 
 ---
 
