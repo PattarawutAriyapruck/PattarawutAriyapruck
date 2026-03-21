@@ -78,24 +78,3 @@ data_scientist = {
 ```
 
 ---
-
-## 🤝 Connect with Me
-
-<p align="left">
-  <a href="https://www.github.com/PattarawutAriyapruck" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/pattarwut-boss" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
----
-
-<div align="center">
-
-*"Without data, you're just another person with an opinion."* — W. Edwards Deming
-
-![Profile Views](https://komarev.com/ghpvc/?username=PattarawutAriyapruck&color=3B82F6&style=for-the-badge)
-
-</div>
