@@ -1,58 +1,85 @@
 <div align="center">
 
-# Hi there, I'm Pattarawut Ariyapruck 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:1E3A8A,100:3B82F6&height=190&section=header&text=Pattarawut%20Ariyapruck&fontSize=40&fontColor=FFFFFF&fontAlignY=36&desc=Data%20Scientist%20%C2%B7%20AI%20Application%20Builder&descSize=17&descAlignY=56&animation=fadeIn" width="100%" alt="Pattarawut Ariyapruck" />
 
-### 📊 Data Scientist
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=19&pause=1400&color=60A5FA&center=true&vCenter=true&width=620&lines=Building+AI-powered+applications+for+healthcare;LLMs+%E2%86%92+APIs+%E2%86%92+Web+apps+%E2%86%92+Production;From+idea+to+deployed+system%2C+end+to+end)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Data+Scientist+based+in+Bangkok+%F0%9F%87%B9%F0%9F%87%AD;Machine+Learning+%26+Deep+Learning;AI-driven+Solutions+Builder;Always+learning%2C+always+growing+%F0%9F%9A%80)](https://git.io/typing-svg)
+<img src="https://img.shields.io/badge/Bangkok%2C%20Thailand-0B1220?style=flat-square&logo=googlemaps&logoColor=60A5FA" alt="Bangkok, Thailand" />
+<img src="https://img.shields.io/badge/Healthcare-0B1220?style=flat-square&logo=heart&logoColor=60A5FA" alt="Healthcare" />
+<img src="https://img.shields.io/badge/Open%20to%20collaboration-0B1220?style=flat-square&logo=github&logoColor=60A5FA" alt="Open to collaboration" />
 
 </div>
 
----
+<br />
 
-## 🧑‍💻 About Me
+## About
 
-I'm a **Data Scientist** based in **Bangkok, Thailand**, passionate about turning raw data into actionable insights and intelligent systems. My work spans the full data science pipeline — from exploratory analysis and feature engineering to deploying production-ready ML models and AI-powered applications.
+I'm a **Data Scientist** in the **healthcare sector**, based in **Bangkok, Thailand**.
 
-- 🔭 I specialize in **Machine Learning**, **Deep Learning**, and **AI-driven solutions**
-- 🖼️ Hands-on experience with **image classification** and computer vision tasks
-- 📈 Proficient in **data analysis**, statistical modeling, and **model training**
-- 🔌 Building and consuming **REST APIs** to power data pipelines and AI services (FastAPI, Flask)
-- ☁️ Deploying solutions on **Cloud Platforms** — Google Cloud (Cloud Run, Vision API, Gemini API), and other managed services
-- 🤖 Working with **Large Language Models (LLMs)** — prompt engineering, API integration, and building LLM-powered applications
-- 🌐 Creating **web applications** that bring data science and AI to life through interactive frontends and backend APIs
-- 💡 Always exploring new techniques in the ML/AI space
-- 🤝 Open to collaborations on data science, AI, and full-stack AI application projects
+My work today is less about notebooks and more about shipping. I design, build, and run **AI-powered web applications** that plug into real clinical workflows, from the LLM pipeline and backend API to the frontend and the server it runs on.
 
----
+<br />
 
-## 🛠️ Tech Stack
+## What I Do
 
-### Languages & Core Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>LLM &amp; AI Integration</h4>
+      Turning language models into working products: RAG, structured extraction, and document understanding.
+    </td>
+    <td width="50%" valign="top">
+      <h4>Full-Stack AI Applications</h4>
+      End-to-end web apps with FastAPI, PostgreSQL, Redis, and real-time WebSocket updates.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Workflow Automation</h4>
+      Replacing repetitive manual work with reliable pipelines and bots.
+    </td>
+    <td width="50%" valign="top">
+      <h4>Cloud Infrastructure</h4>
+      Deploying and maintaining production services on AWS and Google Cloud.
+    </td>
+  </tr>
+</table>
 
-### Machine Learning & AI
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+<br />
 
-### AI Models & LLMs
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+## Tech Stack
 
-### Databases & Backend
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+<table>
+  <tr>
+    <td width="170"><b>AI &amp; LLMs</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Gemini-0B1220?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" height="32" alt="Gemini" />
+      <img src="https://img.shields.io/badge/Claude-0B1220?style=for-the-badge&logo=claude&logoColor=D97757" height="32" alt="Claude" />
+      <img src="https://img.shields.io/badge/Vertex%20AI-0B1220?style=for-the-badge&logo=googlecloud&logoColor=4285F4" height="32" alt="Vertex AI" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend &amp; Data</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,sklearn&theme=dark" height="44" alt="Python, FastAPI, PostgreSQL, Redis, scikit-learn" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" height="44" alt="JavaScript, HTML, CSS" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Cloud &amp; DevOps</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=gcp,aws,docker,nginx,ubuntu,git,github&theme=dark" height="44" alt="Google Cloud, AWS, Docker, Nginx, Ubuntu, Git, GitHub" />
+    </td>
+  </tr>
+</table>
 
-### Dev Tools
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:1E3A8A,100:0B1220&height=90&section=footer" width="100%" alt="" />
+
+</div>
